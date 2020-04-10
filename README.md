@@ -1,3 +1,9 @@
+# bicycle-network-app
+
+This React app uses a locally cloned [bicycle-network](https://github.com/spheresoftinc/bicycle-network) (in ../bicycle-network) for now until we post to npm. Make sure to clone that as well.
+
+# Auto-generated README
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
