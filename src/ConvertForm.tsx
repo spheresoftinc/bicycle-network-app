@@ -75,7 +75,7 @@ export class ConvertForm extends React.Component<{}, ConvertState> {
         const { feet, inches } = this.state;
         return (
             <form>
-                Feet: <input name="feet" value={feet} onChange={this.handleChange} /><br />
+            Feet: <input name="feet" value={feet} onChange={this.handleChange} /><br />
             Inches: <input name="inches" value={inches} onChange={this.handleChange} />
             </form>
         );
